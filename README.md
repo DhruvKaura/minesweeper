@@ -10,7 +10,7 @@ Welcome to the **Minesweeper Game**, a classic logic puzzle game built with vani
 
 ## 🎮 **Live Demo**
 
-[Play the Minesweeper Game!](your-live-demo-url-here)
+[Play the Minesweeper Game!](https://minesweepergamejs.netlify.app/)
 
 ---
 
@@ -49,12 +49,12 @@ Follow these steps to set up the Minesweeper game locally:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/minesweeper-game.git
+    git clone https://github.com/yourusername/minesweeper.git
     ```
 
 2. **Navigate to the project folder**:
     ```bash
-    cd minesweeper-game
+    cd minesweeper
     ```
 
 3. **Open the `index.html` file in your browser**:
