@@ -49,7 +49,7 @@ Follow these steps to set up the Minesweeper game locally:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/minesweeper.git
+    git clone https://github.com/DhruvKaura/minesweeper/
     ```
 
 2. **Navigate to the project folder**:
@@ -91,16 +91,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 🙌 **Acknowledgments**
 
 - Inspired by the classic Minesweeper game that we all love!
-- Special thanks to [yourname] for development.
 
 ---
 
 ## 📧 **Contact**
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- GitHub: [Your GitHub](https://github.com/yourusername)
+- Email: [dhruvkaura25@gmail.com](mailto:dhruvkaura25@gmail.com)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/dhruv-kaura/)
+- GitHub: [Your GitHub](https://github.com/DhruvKaura/)
 
----
-
-Feel free to replace placeholder links and images with your own, and add additional sections if needed!
